@@ -1,0 +1,170 @@
+.feature-card11-feature-card {
+  width: auto;
+  display: flex;
+  padding: var(--dl-space-space-unit);
+  max-width: var(--dl-size-size-maxwidth);
+  min-width: 250px;
+  box-shadow: 5px 5px 10px 0px rgba(18, 18, 18, 0.1);
+  min-height: 330px;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: 40px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #ffffff;
+}
+.feature-card11-feature-card:hover {
+  transform: scale(1.02);
+}
+.feature-card11-image {
+  width: auto;
+  height: auto;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.feature-card11-text {
+  color: var(--dl-color-gray-title);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.feature-card11-text1 {
+  color: var(--dl-color-gray-subtitle);
+  font-size: 16px;
+  font-style: normal;
+  text-align: center;
+  font-weight: 300;
+}
+.feature-card11-root-class-name {
+  margin: var(--dl-space-space-halfunit);
+  min-height: 330px;
+}
+.feature-card11-root-class-name1 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name2 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name3 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name4 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name5 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name6 {
+  margin: var(--dl-space-space-halfunit);
+}
+.feature-card11-root-class-name7 {
+  margin: var(--dl-space-space-halfunit);
+}
+@media(max-width: 991px) {
+  .feature-card11-feature-card {
+    height: auto;
+    min-height: auto;
+  }
+}
+@media(max-width: 767px) {
+  .feature-card11-root-class-name {
+    width: auto;
+    min-width: 250px;
+    max-height: auto;
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name1 {
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name2 {
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name3 {
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name4 {
+    min-width: 250px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name5 {
+    min-width: 250px;
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name6 {
+    max-width: 320px;
+    min-width: 250px;
+    margin-left: var(--dl-space-space-oneandhalfunits);
+  }
+  .feature-card11-root-class-name7 {
+    min-width: 250px;
+    margin-right: var(--dl-space-space-oneandhalfunits);
+  }
+}
+@media(max-width: 479px) {
+  .feature-card11-feature-card {
+    align-items: center;
+    justify-content: center;
+  }
+  .feature-card11-root-class-name {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    min-width: 100%;
+  }
+  .feature-card11-root-class-name1 {
+    top: 233px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    min-width: auto;
+  }
+  .feature-card11-root-class-name2 {
+    top: 461px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name3 {
+    top: 691px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    margin-top: var(--dl-space-space-halfunit);
+  }
+  .feature-card11-root-class-name4 {
+    left: 0px;
+    right: 0px;
+    bottom: 71px;
+    margin: auto;
+    position: absolute;
+    margin-top: var(--dl-space-space-halfunit);
+  }
+  .feature-card11-root-class-name5 {
+    top: 1398px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .feature-card11-root-class-name6 {
+    top: 1159px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+    max-width: var(--dl-size-size-maxwidth);
+  }
+  .feature-card11-root-class-name7 {
+    top: 923px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    position: absolute;
+  }
+}
